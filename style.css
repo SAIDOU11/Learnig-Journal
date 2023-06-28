@@ -16,6 +16,10 @@ body {
 
 /* header */
 
+header {
+  width: 100%;
+}
+
 .header-nav {
   display: flex;
   flex-direction: row;
@@ -56,7 +60,7 @@ body {
 .image-hero {
   position: relative;
   width: 100%;
-  height: 415px;
+  height: 450px;
 }
 
 .hero-post {
