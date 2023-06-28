@@ -1,0 +1,27 @@
+.profil-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.profil {
+  border-radius: 50%;
+  height: 182px;
+}
+
+@media (min-width: 768px) {
+  .profil-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    gap: 2em;
+    margin: 2em 3.5em;
+  }
+  .about-me {
+    font-size: 1.125rem;
+  }
+}
+@media (min-width: 1024px) {
+  .profil-container {
+    margin: 2em 5em;
+  }
+}
