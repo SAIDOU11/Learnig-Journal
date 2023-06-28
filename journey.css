@@ -44,7 +44,7 @@ article {
   margin: 2em 1em;
 }
 
-.article-journey img {
+.article-one img {
   width: 100%;
 }
 
@@ -71,29 +71,35 @@ article {
   .header-nav {
     margin: 1.5em 2em;
   }
+
   .header-nav a,
   .title {
     font-size: 1.375rem;
   }
+
   .home-about {
     gap: 1.25em;
   }
 
   /* .header-nav a, */
+
   .title {
     font-size: 1.375rem;
   }
+
   .home-about {
     gap: 1.25em;
     font-size: 1.375rem;
   }
 
   /* article */
+
   .article-one,
   .article-two {
     margin: 2em 3em;
   }
-  .article-journey img {
+
+  .article-one img {
     width: 100%;
   }
 
@@ -104,6 +110,7 @@ article {
     flex-direction: row;
     flex-wrap: wrap;
   }
+
   .post {
     margin: 2.5em 1em;
     width: 35%;
@@ -115,10 +122,12 @@ article {
   .header-nav {
     margin: 1.5em 2em;
   }
+
   .header-nav a,
   .title {
     font-size: 2rem;
   }
+
   .home-about {
     gap: 1.25em;
   }

@@ -173,7 +173,7 @@ footer {
   .hero-post {
     top: 19em;
     line-height: 1.3;
-    width: 65%;
+    width: 50%;
   }
 
   .hero-post h1 {
@@ -231,9 +231,7 @@ footer {
   }
 
   .hero-post {
-    top: 28em;
-    line-height: 1.5;
-    width: 65%;
+    top: 24em;
   }
   .hero-post h1 {
     font-size: 2.5rem;
@@ -277,7 +275,6 @@ footer {
 
   .hero-post {
     top: 28em;
-    line-height: 1.5;
     width: 65%;
   }
 
